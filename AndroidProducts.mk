@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_whyred.mk
+    $(LOCAL_DIR)/weeb_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosip_whyred-user \
-    aosip_whyred-userdebug \
-    aosip_whyred-eng
+    weeb_whyred-user \
+    weeb_whyred-userdebug \
+    weeb_whyred-eng
